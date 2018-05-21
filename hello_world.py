@@ -6,4 +6,5 @@ def foo():
 
 
 def bar():
+    """Return bar"""
     return 'bar'

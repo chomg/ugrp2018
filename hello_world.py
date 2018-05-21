@@ -1,6 +1,7 @@
 print('Hello, world!')
 
 def foo():
+    """Return foo"""
     return 'foo'
 
 

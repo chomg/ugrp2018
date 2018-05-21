@@ -1,7 +1,7 @@
 print('Hello, world!')
 
 def foo():
-    pass
+    return 'foo'
 
 
 def bar():

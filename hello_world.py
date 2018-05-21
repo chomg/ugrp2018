@@ -5,4 +5,4 @@ def foo():
 
 
 def bar():
-    pass
+    return 'bar'
